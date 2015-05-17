@@ -1,0 +1,15 @@
+{
+
+    "list": [
+        { 
+            "title": "中国地图",
+            "path": "/json/geo/china/china-province.geojson",
+            "from": "https://github.com/hueidou/chinamaps/tree/gh-pages/geojson/"
+        },
+        {
+            "title": "中国省份地图",
+            "path": "/json/geo/china/province-city/",
+            "from": "https://github.com/hueidou/chinamaps/tree/gh-pages/geojson"
+        }
+    ]
+}
